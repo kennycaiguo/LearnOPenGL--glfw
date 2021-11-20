@@ -1,0 +1,2 @@
+这是比较新的OpenGL，使用glfw可以镜像shader编程，因为glut已经过时了。
+可以学习但是最好还是学好glfw+glad或者glew。
